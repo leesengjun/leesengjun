@@ -4,11 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=02569B&width=435&lines=Cross-Platform+App+Developer;Building+Smooth+Mobile+Experiences" alt="Typing SVG" />
 </p>
 
+<!-- 👀 Visitor Count -->
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesengjun&count_bg=%2302569B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits" />
+</p>
+
 > 사용자 경험을 중시하며 크로스 플랫폼 앱을 개발하고 있습니다.
 
 <br>
 
-<!-- 🐾 GitHub Pet (대체 위젯 적용) -->
+<!-- 🐾 GitHub Pet -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/eugene-s/github-readme-pets/main/assets/dog.gif" width="100" alt="Pet" />
 </div>
@@ -25,11 +30,10 @@
 
 <br>
 
-**📊 GitHub Stats**
+**🌱 GitHub Contribution Graph**
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=leesengjun&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=leesengjun&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/02569B/leesengjun" alt="leesengjun's Github Activity Graph" width="100%" />
 </p>
 
 <br>
