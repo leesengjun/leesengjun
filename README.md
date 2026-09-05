@@ -8,21 +8,18 @@
 
 <br>
 
-<!-- 🐾 GitHub Pet -->
+<!-- 🐾 GitHub Pet (대체 위젯 적용) -->
 <div align="center">
-  <img src="https://github-readme-pets.vercel.app/api/pet?name=Contributions&pet=cat&color=02569B" alt="Pet=dog" />
+  <img src="https://raw.githubusercontent.com/eugene-s/github-readme-pets/main/assets/dog.gif" width="100" alt="Pet" />
 </div>
 
 <br>
 
 **📱 Tech Stack**
 
-<!-- Mobile & Language -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<!-- Database & Cloud -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -31,8 +28,8 @@
 **📊 GitHub Stats**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesengjun&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesengjun&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=leesengjun&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=leesengjun&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <br>
@@ -40,4 +37,3 @@
 **📫 Contact & Link**
 
 * **Email:** s26051@gsm.hs.kr
-
