@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=02569B&width=435&lines=Cross-Platform+App+Developer;Building+Smooth+Mobile+Experiences" alt="Typing SVG" />
 </p>
 
-<!-- 👀 Visitor Count (안정적인 대체 뱃지로 수정) -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=leesengjun&color=02569B&style=flat-square&label=VISITORS" alt="Visitor Count" />
-</p>
-
 > 사용자 경험을 중시하며 크로스 플랫폼 앱을 개발하고 있습니다.
 
 <br>
