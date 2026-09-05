@@ -10,7 +10,7 @@
 
 <!-- 🐾 GitHub Pet -->
 <div align="center">
-  <img src="https://github-readme-pets.vercel.app/api/pet?name=Contributions&pet=cat&color=02569B" alt="Pet" />
+  <img src="https://github-readme-pets.vercel.app/api/pet?name=Contributions&pet=cat&color=02569B" alt="Pet=dog" />
 </div>
 
 <br>
