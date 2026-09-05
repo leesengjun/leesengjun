@@ -39,5 +39,5 @@
 
 **📫 Contact & Link**
 
-* **Email:** your.email@example.com
-* **Blog:** https://your-blog-link.com
+* **Email:** s26051@gsm.hs.kr
+
