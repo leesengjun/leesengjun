@@ -23,13 +23,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-
-**🌱 GitHub Contribution Graph**
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/02569B/leesengjun" alt="leesengjun's Github Activity Graph" width="100%" />
-</p>
 
 <br>
 
