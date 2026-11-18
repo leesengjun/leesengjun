@@ -1,8 +1,5 @@
 # 👋 안녕하세요! Flutter 개발자 이승준입니다.
-<br>
 
-<img src="https://gitcawa.gitcawa.workers.dev/farm/%7Busername%7D" width="600" alt="GitCawa farm" />
-<br>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=02569B&width=435&lines=Cross-Platform+App+Developer;Building+Smooth+Mobile+Experiences" alt="Typing SVG" />
